@@ -1,6 +1,6 @@
 # creek-desktop-pets
 
-- ## 文件说明 | File Description
+## 文件说明 | File Description
 -ol = outlined 带描边版本
 -nool = no outline 无描边版本
 
