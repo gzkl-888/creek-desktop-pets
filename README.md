@@ -1,4 +1,22 @@
 # creek-desktop-pets
+<img width="1671" height="1089" alt="(FF){_{%90LSLP{(G UL3)U" src="https://github.com/user-attachments/assets/e63baa73-d662-4086-a5a3-ca84979acdae" />
+
+> [!IMPORTANT]
+> ## 下载说明 / Download 
+> 本仓库为项目说明页，桌宠软件本体请前往 **Releases** 页面下载。  
+> *This repository is for documentation. Please go to the **Releases** page to download the desktop pet.*
+
+ **[点击这里下载 v1.0.0 版本 / Click here to download v1.0.0](https://github.com/gzkl-888/creek-desktop-pets/releases/tag/v1.0.0)**
+
+---
+## 运行前置条件 | Prerequisite：
+该桌宠需要通过 Mate-Engine 使用。 / This desktop pet requires Mate-Engine to run.  
+ [下载 Mate-Engine 最新版 / Download the latest Mate-Engine](https://github.com/shinyflvre/Mate-Engine/releases/latest)
+
+## 小贴士 | Tip
+在设置中适当调低亮度，可以让桌宠的颜色更接近原贴图的质感。  
+You can lower the brightness in the settings to make the pet's colors closer to the original texture.
+<img width="687" height="543" alt="EAH_L`IY)LAYD10KTQWEZ_8" src="https://github.com/user-attachments/assets/8fe79188-eb5d-4be5-8ee2-18530364a11e" />
 
 ## 文件说明 | File Description
 -ol = outlined 带描边版本  
